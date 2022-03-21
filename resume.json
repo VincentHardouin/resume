@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Vincent Hardouin",
+    "label": "Développeur Full-stack",
+    "image": "",
+    "email": "vincenthardouin@live.fr",
+    "phone": "+33 6 98 82 54 07",
+    "url": "https://vincenthardouin.dev",
+    "summary": "J'évolue en alternance chez Pix depuis 3 ans en tant que développeur full-stack.",
+    "location": {
+      "postalCode": "75018",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "website",
+        "username": "vincenthardouin",
+        "url": "https://vincenthardouin.dev/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vincent-hardouin-developpeur",
+        "url": "https://www.linkedin.com/in/vincent-hardouin-developpeur/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GIP Pix",
+      "position": "Développeur Full-Stack",
+      "url": "https://pix.fr",
+      "startDate": "2019-06-10",
+      "summary": "Pix est le service public en ligne d'évaluation et de certification des compétences numérique pour tout un chacun tout au long de sa vie.",
+      "highlights": [
+        "Node.JS",
+        "TDD",
+        "DDD",
+        "Mob-programming",
+        "eXtreme Programming"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ECE Paris",
+      "url": "https://ece.fr/",
+      "area": "Ingénieur généraliste : majeure Systèmes d'Information et Cybersécurité",
+      "studyType": "Bac+5",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "Confirmé",
+      "keywords": [
+        "HTML",
+        "CSS / SCSS",
+        "JavaScript",
+        "Ember.js",
+        "Jest",
+        "Mocha",
+        "Chai",
+        "DDD"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "Confirmé",
+      "keywords": [
+        "Node.js",
+        "Ruby",
+        "Clean Archi",
+        "Domain Driven Design",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Pratiques",
+      "level": "Confirmé",
+      "keywords": [
+        "Agilité",
+        "TDD",
+        "eXtreme Programming",
+        "Pair programming",
+        "Mob programming",
+        "Management 3.0",
+        "Feedbacks 360"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Natif"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML"
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
